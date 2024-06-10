@@ -39,6 +39,7 @@ To install the LocalGPT Streamlit app, follow these steps:
 ## Usage
 To run the LocalGPT Streamlit app, simply execute the following command in the project directory:
 ```
+cd src
 streamlit run app.py
 ```
 This will launch the app in your default web browser. You can then interact with the app (after running  the  server) by providing input text, and generating text.
