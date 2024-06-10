@@ -1,0 +1,5 @@
+streamlit
+streamlit_shadcn_ui
+openai
+llama_cpp_python
+'llama-cpp-python[server]'
